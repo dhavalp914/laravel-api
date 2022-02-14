@@ -1,0 +1,5 @@
+id,name,image,discount_percentage
+1,Atlantis The Palm,https://via.placeholder.com/250x250,25
+2,Test Row,https://via.placeholder.com/250x250,40
+3,Unicorn Startup,https://via.placeholder.com/250x250,50
+4,Test Row,,30
