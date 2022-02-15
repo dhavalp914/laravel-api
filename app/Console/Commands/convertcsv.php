@@ -68,6 +68,6 @@ class convertcsv extends Command
             File::put(resource_path() . '/jsonfiles/' . $jsongFile, json_encode($json));
         }
 
-        $this->info('File generated successfully.' . $csvfile . ' ' . $generation_type);
+        $this->info('File generated successfully.');
     }
 }
